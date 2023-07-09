@@ -1,0 +1,72 @@
+>>> Chat-Analysis Result: Tobia and Shuyan <<<
+From: 13.05.2023 - 09.07.2023
+
+Amount of messages: 25748
+    from me: 11415
+    from her: 14333
+
+
+Amount of text messages:20936
+Average amount of text messages per day:360.9655172413793
+    from me:174.6206896551724
+    from her:186.3448275862069
+
+
+Amount of words:144095
+Average amount of text messages per day:2484.396551724138
+    from me:1637.9137931034484
+    from her:846.4827586206897
+Top used words:
+    1. I (6832)
+    2. you (5460)
+    3. to (3335)
+    4. the (2888)
+    5. and (2527)
+
+
+Amount of pictures:1433
+Average amount of picture messages per day:24.70689655172414
+    from me:13.482758620689655
+    from her:11.421052631578947
+Top used pictures:
+    1. (File not included. Change data exporting settings to download.) (1433)
+
+
+Amount of video:627
+Average amount of video messages per day:10.810344827586206
+    from me:5.724137931034483
+    from her:5.086206896551724
+Top used video:
+    1. (File not included. Change data exporting settings to download.) (627)
+
+
+Amount of emoji:35901
+Average amount of emoji messages per day:618.9827586206897
+    from me:364.17241379310343
+    from her:259.280701754386
+Top used emoji:
+    1. 🥰 (7505)
+    2. 😂 (7251)
+    3. 😘 (7106)
+    4. 🤣 (4120)
+    5. 😅 (1458)
+
+
+Amount of sticker:2289
+Average amount of sticker messages per day:39.46551724137931
+    from me:2.4473684210526314
+    from her:37.86206896551724
+Top used sticker:
+    1. (File not included. Change data exporting settings to download.) (2289)
+
+
+Amount of animations:2
+Average amount of animations messages per day:1.0
+    from me:1.0
+    from her:0
+Top used animations:
+    1. (File not included. Change data exporting settings to download.) (2)
+
+
+58 in a row daily written! From 13.05.2023 to 09.07.2023 🔥
+End ♥️
