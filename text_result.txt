@@ -1,72 +1,72 @@
 >>> Chat-Analysis Result: Tobia and Shuyan <<<
-From: 13.05.2023 - 09.07.2023
+From: 13.05.2023 - 17.07.2023
 
-Amount of messages: 25748
-    from me: 11415
-    from her: 14333
-
-
-Amount of text messages:20936
-Average amount of text messages per day:360.9655172413793
-    from me:174.6206896551724
-    from her:186.3448275862069
+Amount of messages: 29343
+    from me: 13040
+    from her: 16303
 
 
-Amount of words:144095
-Average amount of text messages per day:2484.396551724138
-    from me:1637.9137931034484
-    from her:846.4827586206897
+Amount of text messages:23838
+Average amount of text messages per day:361
+    from me:176
+    from her:185
+
+
+Amount of words:164803
+Average amount of text messages per day:2497
+    from me:1630
+    from her:867
 Top used words:
-    1. I (6832)
-    2. you (5460)
-    3. to (3335)
-    4. the (2888)
-    5. and (2527)
+    1. I (7836)
+    2. you (6154)
+    3. to (3812)
+    4. the (3279)
+    5. and (2847)
 
 
-Amount of pictures:1433
-Average amount of picture messages per day:24.70689655172414
-    from me:13.482758620689655
-    from her:11.421052631578947
+Amount of pictures:1630
+Average amount of picture messages per day:25
+    from me:13
+    from her:12
 Top used pictures:
-    1. (File not included. Change data exporting settings to download.) (1433)
+    1. (File not included. Change data exporting settings to download.) (1630)
 
 
-Amount of video:627
-Average amount of video messages per day:10.810344827586206
-    from me:5.724137931034483
-    from her:5.086206896551724
+Amount of video:708
+Average amount of video messages per day:11
+    from me:6
+    from her:5
 Top used video:
-    1. (File not included. Change data exporting settings to download.) (627)
+    1. (File not included. Change data exporting settings to download.) (708)
 
 
-Amount of emoji:35901
-Average amount of emoji messages per day:618.9827586206897
-    from me:364.17241379310343
-    from her:259.280701754386
+Amount of emoji:47914
+Average amount of emoji messages per day:726
+    from me:414
+    from her:317
 Top used emoji:
-    1. 🥰 (7505)
-    2. 😂 (7251)
-    3. 😘 (7106)
-    4. 🤣 (4120)
-    5. 😅 (1458)
+    1. 😘 (10617)
+    2. 🥰 (10389)
+    3. 😂 (8776)
+    4. 🤣 (5825)
+    5. 😅 (1674)
 
 
-Amount of sticker:2289
-Average amount of sticker messages per day:39.46551724137931
-    from me:2.4473684210526314
-    from her:37.86206896551724
+Amount of sticker:2657
+Average amount of sticker messages per day:40
+    from me:3
+    from her:39
 Top used sticker:
-    1. (File not included. Change data exporting settings to download.) (2289)
+    1. (File not included. Change data exporting settings to download.) (2657)
 
 
-Amount of animations:2
-Average amount of animations messages per day:1.0
-    from me:1.0
-    from her:0
+Amount of animations:11
+Average amount of animations messages per day:2
+    from me:2
+    from her:1
 Top used animations:
-    1. (File not included. Change data exporting settings to download.) (2)
+    1. (File not included. Change data exporting settings to download.) (11)
 
 
-58 in a row daily written! From 13.05.2023 to 09.07.2023 🔥
+66 in a row daily written! From 13.05.2023 to 17.07.2023 🔥
 End ♥️
