@@ -2,6 +2,7 @@
 html {
     /* height: 100%; */
     height: auto;
+    overflow-x: hidden; /* Prevent horizontal scrolling */
 }
 
 body {
@@ -10,6 +11,7 @@ body {
     height: auto;
     background: linear-gradient(#0f1a2b, #791ccf); /* #411d63 */
     color: #d4a5e6;
+    overflow-x: hidden; /* Prevent horizontal scrolling */
     }
 
 h1 {
@@ -195,3 +197,17 @@ p {
         width: 150px;
     }
 }
+
+@media (max-width: 768px) {
+    body {
+        font-size: 14px; 
+    }
+
+    h1 {
+        font-size: 24px; 
+    }
+
+}
+
+
+
