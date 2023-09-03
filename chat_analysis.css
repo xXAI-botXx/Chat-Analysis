@@ -39,6 +39,21 @@ p {
     display: block;
 }
 
+.audio-container {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  padding: 10px; /* Adjust spacing */
+  background-color: rgba(0, 0, 0, 0.5); /* Background color for controls */
+  border-radius: 0 0 10px 0; /* Rounded corners (only bottom left) */
+  z-index: 9999; /* In case of overlapping with other elements */
+}
+
+.audio-container audio {
+  width: 100px; /* Adjust width of the audio element */
+  opacity: 0.8; /* Adjust transparency of controls */
+}
+
 .moon {
     width: 100px;
     height: 100px;
@@ -47,9 +62,9 @@ p {
     box-shadow: inset -11px -8px 0px 4px #feffa2, 0px 0px 10px 0px #feffa2, 0px 0px 50px 0px #feffa2, 0px 0px 500px 0px #feffa2;
     display: inline-block;
     position: relative;
-    top: 10%;
-    left: 10%;
-    margin-top: 40px;
+    right: 20%;
+    margin-top: 60px;
+    float: right;
     animation: 3s moonglow ease-in-out infinite alternate;
 }
 
